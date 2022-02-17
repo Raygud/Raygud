@@ -1,6 +1,6 @@
 ### Hello world! 🤙 
 
-# My name is Rúni Gudmundarson and i am currently studying Web development, but i do dabble in the dark arts of Software development at a recreational level
+ My name is **Rúni Gudmundarson** and i am currently studying Web development, but i do dabble in the dark arts of Software development at a recreational level
 
 1.JavaScript - Professional Working Proficiency
 2.Css - Professional Working Proficiency
