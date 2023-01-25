@@ -10,6 +10,8 @@
 6. React
 7. React Native
 
+Currently falling in love with Vue.js 👀
+
 <!--
 **Raygud/Raygud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
