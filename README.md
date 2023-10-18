@@ -1,8 +1,8 @@
-# Rúni Gudmundarson 🌍
+# Hello World 🌍
 
 <div align="center">
 
-![Professional Profile Image or Logo](URL_OF_IMAGE)
+![Professional Profile Image or Logo](https://imgur.com/a/KUprfgY)
 
 </div>
 
