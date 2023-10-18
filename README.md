@@ -2,9 +2,15 @@
 
 <div align="center">
 
-![Profile Image of Rúni's Dog](https://raw.githubusercontent.com/Raygud/Raygud/main/Image.jpeg)
-_🐾 My dog_
-
+<svg viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+  <rect width="10" height="10">
+    <animate
+      attributeName="rx"
+      values="0;5;0"
+      dur="10s"
+      repeatCount="indefinite" />
+  </rect>
+</svg>
 </div>
 
 Welcome to my GitHub profile. I am a seasoned front-end developer, dedicated to creating and enhancing digital experiences. My expertise spans from traditional web frameworks to innovative tools like Vue.js and Razor. My approach to CSS is structured and modular, utilizing the BEM methodology. Beyond web development, I am passionate about integrating software with hardware through platforms like Arduino and Raspberry Pi.
