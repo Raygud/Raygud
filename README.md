@@ -1,17 +1,20 @@
-### Hello world! 🤙 
+# Rúni Gudmundarson 🌍
 
- My name is **Rúni Gudmundarson** and i am currently studying Web development, but i do dabble in the dark arts of Software development at a recreational level
+<div align="center">
 
-1. JavaScript 
-2. TypeScript 
-3. CSS
-4. SCSS
-5. HTML
-6. React
-7. React Native
+![Professional Profile Image or Logo](URL_OF_IMAGE)
 
-Currently falling in love with Vue.js 👀
+</div>
 
-<!--
-**Raygud/Raygud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I am a seasoned front-end developer, dedicated to creating and enhancing digital experiences. My expertise spans from traditional web frameworks to innovative tools like Vue.js and Razor. My approach to CSS is structured and modular, utilizing the BEM methodology. Beyond web development, I am passionate about integrating software with hardware through platforms like Arduino and Raspberry Pi.
 
+## 🔧 Front-End Toolkit
+- **JavaScript & TypeScript**: Efficient scripting for robust applications.
+- **CSS (BEM)**: Modular and maintainable styles.
+- **HTML & Razor**: Building dynamic and structured web content.
+- **React, React Native & Vue.js**: Crafting modern and responsive interfaces.
+
+## 🛠 Passion Projects
+* **Software/App Development**: Innovating the digital landscape.
+* **Arduino**: Bridging the software-hardware divide.
+* **Raspberry Pi**: Pioneering solutions on a compact scale.
