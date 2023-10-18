@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Professional Profile Image](https://imgur.com/a/KUprfgY)
+![Professional Profile Image](https://raw.githubusercontent.com/Raygud/Raygud/main/Image.jpeg)
 
 </div>
 
