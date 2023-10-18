@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![Professional Profile Image](https://raw.githubusercontent.com/Raygud/Raygud/main/Image.jpeg)
+![Profile Image of Rúni's Dog](https://raw.githubusercontent.com/Raygud/Raygud/main/Image.jpeg)
+_🐾 My dog_
 
 </div>
 
