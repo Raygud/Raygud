@@ -14,7 +14,7 @@ Plunderflix    <DIR> 🎬 Media Streaming
 
 C:\Users\Runi> contact --help
 📧 runigud@runigud.com
-🔗 [linkedin.com/in/runicode](https://www.linkedin.com/in/rúni-gudmundarson-b33559176/)
+🔗 [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
 
 C:\Users\Runi> echo "Code. Sleep. Repeat."
 Code. Sleep. Repeat.
