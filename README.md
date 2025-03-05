@@ -17,7 +17,7 @@ Welcome to my GitHub profile. I am a seasoned front-end developer, dedicated to 
 
 ## 🔧 Front-End Toolkit
 - **JavaScript & TypeScript**: Efficient scripting for robust applications.
-- **CSS (BEM)**: Modular and maintainable styles.
+- **CSS/SCSS (BEM)**: Modular and maintainable styles.
 - **HTML & Razor**: Building dynamic and structured web content.
 - **React, React Native & Vue.js**: Crafting modern and responsive interfaces.
 
