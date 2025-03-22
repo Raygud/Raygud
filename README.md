@@ -1,20 +1,13 @@
-```powershell
-C:\Users\Runi> whoami
-Runi - Developer & Student
+# Runi Gudmundarson
 
-C:\Users\Runi> type tech_stack.txt
-- JavaScript (TypeScript), C#, Java
-- Vue.js, React, Node.js, .NET
-- SQL, MySQL
+🎓 Datamatiker student based in Denmark  
+💻 Programmer from the Faroe Islands  
+🌐 Experienced in Vue, TypeScript, Java, Node.js, SQL, and more  
+🛠️ Building across web, desktop, and embedded systems  
+🧠 Passionate about clean code, performance, and clever solutions
 
-C:\Users\Runi> dir projects
-Pathto.link    <DIR> 📌 Dynamic QR Codes
-Álaborg        <DIR> 🎟️ Ticket System
-Plunderflix    <DIR> 🎬 Media Streaming
+---
 
-C:\Users\Runi> contact --help
-📧 runigud@runigud.com
-🔗 https://www.linkedin.com/in/rúni-gudmundarson-b33559176/
-
-C:\Users\Runi> echo "Code. Sleep. Repeat."
-Code. Sleep. Repeat.
+🗂️ [runigud.com](https://runigud.com)  
+📬 [runigud@runigud.com](mailto:runigud@runigud.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/r%C3%BAni-gudmundarson-b33559176/)
